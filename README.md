@@ -27,9 +27,3 @@ Atualmente estou adicionando meus projetos acadêmicos aqui no GitHub.
 
 ---
 
-## Contato
-
-Email: viniciuslazarotti@gmail.com  
-LinkedIn:   www.linkedin.com/in/viniciuslazarotti
-
----
