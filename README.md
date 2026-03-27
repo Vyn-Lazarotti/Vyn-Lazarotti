@@ -1,16 +1,43 @@
-## Hi there 👋
+# Olá, eu sou Vinicius Lazaroti
 
-<!--
-**Vyn-Lazarotti/Vyn-Lazarotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas  
+UNA Contagem   
+Previsão de conclusão: Julho de 2028  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas, voltando para a área de tecnologia e focado no aprendizado contínuo.
+
+---
+
+## Atualmente estudando
+
+- Lógica de Programação
+- Estruturas básicas de algoritmos  
+- Experiência do usuário (UX)  
+- Fundamentos de sistemas
+- Java
+- C#
+
+---
+
+## Objetivo
+
+Construir uma base sólida em desenvolvimento de sistemas e evoluir para atuar com análise de dados aplicada a soluções tecnológicas.
+
+---
+
+## Projetos
+
+Atualmente estou adicionando meus projetos acadêmicos aqui no GitHub.
+
+---
+
+## Contato
+
+Email: viniciuslazarotti@gmail.com  
+LinkedIn:   www.linkedin.com/in/viniciuslazarotti
+
+---
