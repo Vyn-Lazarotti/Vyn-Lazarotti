@@ -1,14 +1,10 @@
-# Olá. Eu me chamo Vinicius Lazarotti
-
-Estudante de Análise e Desenvolvimento de Sistemas  
-UNA Contagem   
-Previsão de conclusão: Julho de 2028  
+# Bio
 
 ---
 
 ## Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, voltando para a área de tecnologia e focado no aprendizado contínuo.
+Me chamo Vinicius Lazarotti. Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Una Contagem (previsão de conclusão: Julho/2028).
 
 ---
 
