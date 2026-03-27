@@ -1,4 +1,4 @@
-# Olá, eu sou Vinicius Lazaroti
+# Olá. Eu me chamo Vinicius Lazarotti
 
 Estudante de Análise e Desenvolvimento de Sistemas  
 UNA Contagem   
