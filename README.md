@@ -6,24 +6,8 @@ Me chamo Vinicius Lazaroti. Atualmente tenho 23 anos e sou estudante de Análise
 
 ## Atualmente estudando
 
-- Lógica de Programação
-- Estruturas básicas de algoritmos  
-- Experiência do usuário (UX)  
-- Fundamentos de sistemas
 - Java
 - C#
-
----
-
-## Objetivo
-
-Construir uma base sólida em desenvolvimento de sistemas e evoluir para atuar com análise de dados aplicada a soluções tecnológicas.
-
----
-
-## Projetos
-
-Atualmente estou adicionando meus projetos acadêmicos aqui no GitHub.
 
 ---
 
