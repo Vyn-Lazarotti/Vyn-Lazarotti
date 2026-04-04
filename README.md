@@ -9,4 +9,5 @@ My name is Vinicius Lazaroti, actually 23 years old. I'm from Brazil and studyin
 
 - Java
 - C#
+- UX
 
