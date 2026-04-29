@@ -8,7 +8,7 @@ My name is Vinicius Lazaroti, actually 23 years old. I'm from Brazil and I'm gra
 ## Learning
 
 - Java
-- C# (and Razor)
+- C# (and Blazor)
 - UX (Figma/Miro)
 - SQL
 
