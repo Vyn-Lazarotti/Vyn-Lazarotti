@@ -1,14 +1,29 @@
-## About me
+# About me
 
-Hello!
-My name is Vinicius Lazaroti, actually 23 years old. I'm from Brazil and I'm graduating in Analysis and Systems Development at UNA.
+Hi! My name is Vinicius Lazaroti. I'm a dev from Brazil.
 
----
+- 🌱 I’m currently learning **Java**, **C#** and **SQL**
 
-## Learning
+## Socials
 
-- Java
-- C# (and Blazor)
-- UX (Figma/Miro)
-- SQL
+<br>
+
+<div align="center">
+  
+  <a href="https://linkedin.com/in/viniciuslazarotti" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" target="_blank" />
+  </a>
+</div>
+
+<hr>
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cs,sqlite,html,css"/>
+</p>
+
+<hr>
 
