@@ -2,8 +2,6 @@
 
 Hi! My name is Vinicius Lazaroti. I'm a dev from Brazil.
 
-- 🌱 I’m currently learning **Java**, **C#** and **SQL**
-
 ## Socials
 
 <br>
@@ -22,7 +20,7 @@ Hi! My name is Vinicius Lazaroti. I'm a dev from Brazil.
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,sqlite,html,css"/>
+  <img src="https://skillicons.dev/icons?i=java,cs,sqlite,html,css,cpp,python"/>
 </p>
 
 <hr>
