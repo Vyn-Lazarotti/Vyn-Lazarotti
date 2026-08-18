@@ -20,7 +20,7 @@ Hi! My name is Vinicius Lazaroti. I'm a dev from Brazil.
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,sqlite,html,css,cpp,python"/>
+  <img src="https://skillicons.dev/icons?i=java,cs,sqlite,html,css,cpp,python,js"/>
 </p>
 
 <hr>
